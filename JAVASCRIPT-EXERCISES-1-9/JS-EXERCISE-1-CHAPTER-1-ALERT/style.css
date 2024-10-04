@@ -1,0 +1,18 @@
+body{
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);    
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: bold;
+    color: blueviolet;
+    cursor: pointer;
+    border: 2px solid black;
+    max-width: fit-content;
+    max-height: fit-content;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px 5px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    background-color: rgb(233, 181, 133);
+
+}
+
